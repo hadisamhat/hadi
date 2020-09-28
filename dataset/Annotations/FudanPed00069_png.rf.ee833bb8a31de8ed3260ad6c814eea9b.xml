@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>FudanPed00069_png.rf.ee833bb8a31de8ed3260ad6c814eea9b.jpg</filename>
+	<path>FudanPed00069_png.rf.ee833bb8a31de8ed3260ad6c814eea9b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>247</xmin>
+			<xmax>376</xmax>
+			<ymin>68</ymin>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>

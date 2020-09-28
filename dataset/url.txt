@@ -1,0 +1,2 @@
+https://github.com/lacmus-foundation/lacmus
+https://medium.com/@van.evanfebrianto/how-to-train-custom-object-detection-models-using-retinanet-aeed72f5d701
